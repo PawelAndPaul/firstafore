@@ -5,4 +5,4 @@ analyze goals
 ### Methodology
 ### Table of contents
 **bold**
-[Clickhere](www.google.com)
+[Clickhere](www.google.com/)
